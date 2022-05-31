@@ -1,5 +1,8 @@
 # Bienvenidos a la página de Oferta de Trabajos Finales del Laboratorio de Espectrometría de Radiaciones
 
+Profesores Gabriela GRAD, Edgardo BONZI
+gabriela.grad@unc.edu.ar, edgardo.bonzi@unc.edu.ar
+
 En el Laboratorio de Espectrometría de Radiaciones, realizamos diferentes lineas de investigación que incluye desde mediciones de espectros de radiación, cálculos por el Método Monte Carlo, estudios teoricos de diversos materiales tales como óxidos, aleaciones, etc, mediante la Teoría del Funcional Densidad (DFT).
 Tambien aplicamos técnicas de Machine Learning en la física.
 
