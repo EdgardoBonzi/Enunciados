@@ -5,7 +5,7 @@ A partir de la 1ra semana de Octubre dictaremos el **Curso de Python Científico
 En el siguiente link encontrarás la información de los Cursos y el link para inscribirte.  
 https://github.com/EdgardoBonzi/AnuncioPython.git
 
-## B. Machine Learning aplicado a la Física
+## B. Física basada en Machine Learning y cálculos *ab initio*
 
 Profesores:
 Gabriela GRAD gabriela.grad@unc.edu.ar  
