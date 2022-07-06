@@ -1,8 +1,8 @@
 # Enunciados
-## A. Curso de Python 
-A partir de la 2da semana de Agosto dictaremos el **Curso de Introducción a la programación en Python**.
-A partir de la 1ra semana de Octubre dictaremos el **Curso de Python Científico**.
-En el siguiente link encontrarás la información de los Cursos y el link para inscribirte.
+## A. Curso de Python   
+A partir de la 2da semana de Agosto dictaremos el **Curso de Introducción a la programación en Python**.  
+A partir de la 1ra semana de Octubre dictaremos el **Curso de Python Científico**.  
+En el siguiente link encontrarás la información de los Cursos y el link para inscribirte.  
 https://github.com/EdgardoBonzi/AnuncioPython.git
 
 ## B. Machine Learning aplicado a la Física
