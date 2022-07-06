@@ -1,11 +1,13 @@
-# Bienvenido a la Página de Edgardo Bonzi
+# Enunciados
 ## Curso de Python 
-Ingresa a esta página para obtener toda la información del Curso de Python
+A partir de la 2da semana de Agosto dictaremos el **Curso de Introducción a la programación en Python**.
+A partir de la 1ra semana de Octubre dictaremos el **Curso de Python Científico**.
+En el siguiente link encontrarás la información de los Cursos y el link para inscribirte.
 https://github.com/EdgardoBonzi/AnuncioPython.git
 
 ## ¿Te interesa Machine Learning aplicado a la Física? 
 
-### Bienvenidos a la página de Oferta de Trabajos Finales del Laboratorio de Espectrometría de Radiaciones
+### Propuestas de Trabajos Finales
 
 Profesores:
 Gabriela GRAD gabriela.grad@unc.edu.ar  
@@ -14,7 +16,7 @@ Edgardo BONZI edgardo.bonzi@unc.edu.ar
 En el Laboratorio de Espectrometría de Radiaciones, realizamos diferentes lineas de investigación que incluye desde mediciones de espectros de radiación, cálculos por el Método Monte Carlo, estudios teoricos de diversos materiales tales como óxidos, aleaciones, etc, mediante la Teoría del Funcional Densidad (DFT).
 Tambien aplicamos técnicas de Machine Learning en la física.
 
-Aquí dejamos las propeustas de Trabajos Finales
+Aquí dejamos las propuestas de Trabajos Finales
 
 ### 1. Algoritmo Genético para búsqueda de nanocluster de sistemas atómicos
 
@@ -45,7 +47,6 @@ El Clustering o análisis de conglomerados es una técnica de aprendizaje autom�
 La propuesta es desarrollar un programa de ML en Python y sus librerias, para determinar las características de las estructuras de cluster con energía más baja, de una variedad de grupos elementales y compuestos (C, BN, Au, Ag), e investigar sus propiedades físicas. 
 
 Esta propuesta de Trabajo Final para la Licenciatura en Física, conlleva una continuación en una Tesis Doctoral que incluya machine learning en física y posibilidad de realizar un posdoctorado en la Universidad Humboldt de Berlín Alemania.
-
 
 ### 3. Propuesta de cálculos en superficies y nanomateriales
 Estudios teóricos basados en la DFT han sido, en las últimas dos décadas, de gran importancia tanto aplicados a la física de materiales como a comprender los fundamentos de las reacciones químicas, estudio de superficies y mecanismos de catálisis utilizados en la industria quimica en los cuales se aumenta la velocidad de una reacción quimica.
