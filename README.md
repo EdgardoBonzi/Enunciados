@@ -7,16 +7,13 @@ https://github.com/EdgardoBonzi/AnuncioPython.git
 
 ## B. Machine Learning aplicado a la Física
 
-### Propuestas de Trabajos Finales
-
 Profesores:
 Gabriela GRAD gabriela.grad@unc.edu.ar  
 Edgardo BONZI edgardo.bonzi@unc.edu.ar
 
-En el Laboratorio de Espectrometría de Radiaciones, realizamos diferentes lineas de investigación que incluye desde mediciones de espectros de radiación, cálculos por el Método Monte Carlo, estudios teoricos de diversos materiales tales como óxidos, aleaciones, etc, mediante la Teoría del Funcional Densidad (DFT).
-Tambien aplicamos técnicas de Machine Learning en la física.
+En el Laboratorio de Espectrometría de Radiaciones, realizamos diferentes lineas de investigación que incluye desde mediciones de espectros de radiación, cálculos por el Método Monte Carlo, estudios teoricos de diversos materiales tales como óxidos, aleaciones, etc, mediante la Teoría del Funcional Densidad (DFT), en donde tambien aplicamos **técnicas de Machine Learning en la física**.
 
-Aquí dejamos las propuestas de Trabajos Finales
+Aquí dejamos las **propuestas de Trabajos Finales**
 
 ### 1. Algoritmo Genético para búsqueda de nanocluster de sistemas atómicos
 
